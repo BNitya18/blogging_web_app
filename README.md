@@ -15,3 +15,9 @@ A dynamic and responsive blogging platform that allows users to create, update, 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js
 - **Database:** MongoDB
+
+## Contributing
+Feel free to fork this repository and submit pull requests if you'd like to contribute to the project.
+
+## License
+This project is licensed under the MIT License.
